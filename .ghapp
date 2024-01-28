@@ -1,0 +1,10 @@
+{
+  "id": 46647396,
+  "created_at": "2024-01-28T16:49:30.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["proteinDiscover", "proteinDiscoverExtra", "massSpectrometryR", "proteinAnnotation"]
+}
