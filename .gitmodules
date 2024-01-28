@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/benbruyneel/benbruyneel.r-universe.dev
 	branch = HEAD
+[submodule "massSpectrometryR"]
+	path = massSpectrometryR
+	url = https://github.com/BenBruyneel/massSpectrometryR
+[submodule "proteinAnnotation"]
+	path = proteinAnnotation
+	url = https://github.com/BenBruyneel/proteinAnnotation
+[submodule "proteinDiscover"]
+	path = proteinDiscover
+	url = https://github.com/BenBruyneel/proteinDiscover
